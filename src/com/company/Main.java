@@ -1,4 +1,4 @@
-
+package com.company;
 /*
 class evenThread extends Thread{
     @Override
